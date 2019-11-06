@@ -1,0 +1,9 @@
+// general styles for the project that wouldn't be a reuseable component
+
+.competition-promo {
+  background-image: url('../img/content/competition/promo.jpg');
+  @include background-attributes;
+  &__content {
+    color: $white; 
+  }
+}

@@ -1,0 +1,17 @@
+{% include offer/variables.html %}
+
+{% if include.collection %}
+  {% assign offers = offers-by-price | where: 'collection', include.collection %}
+{% else %}
+  {% assign offers = offers-by-price %}
+{% endif %}
+
+<div class="container vpad--xxxl">
+  <div class="row row--xl-6-6 row--gutters-lg">
+    {% for offer in offers %}
+      <div class="col">
+        {% include offer/offer.html %}
+      </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,111 @@
+---
+layout: default
+id: overview
+nav: true
+nav-order: 1
+title: Overview
+
+banner:
+  content: >
+    <div class="container container--xxl text--center">
+      <span class="title--sm text--upper text--wide text--bold">Hunter Winter Collection</span>
+      <div class="space--xxs"></div>
+      <h1 class="banner-title">Embrace the cold, live your winter.</h1>
+    </div>
+
+intro: >
+  <p class="text--xxl">There’s an unmistakable allure to exploring a wintry wilderness. It’s a challenge, a test of your resilience. And the rewards are undeniably great; the feeling of having beaten the cold, the slips and slides, and savouring the unique landscapes that winter offers – ones that you can have all to yourself. With the right gear there’s no reason to shy away from the cold, from the bracing winds and the challenges that the season throws at you. In fact, you might even see them as refreshing, revitalising.</p>
+  <p class="text--xxl">From Golden Circle treks in Iceland to snowy Lakeland hikes in Cumbria, this collection brings you the best winter getaways we can find. Handpicked for you, match your winter escape with the right gear from Hunter. From snow boots to thick parkas, beat the cold in style as you set off on your winter adventure. </p>
+
+
+
+hunter:
+  title: Get winter ready
+  intro: >
+    <p class="text--lg">Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
+  products:
+    - title: Tall Insulated Snow Boot – Storm Camo
+      price: £130
+      id: tall-insulated-snow-boot-storm-camo
+
+    - title: Original Insulated Parka – Luna Grey
+      price: £295
+      id: original-insulated-parka-luna-grey
+
+    - title: Waterproof Rubberised Smock - Yellow
+      price: £195
+      id: waterproof-rubberised-smock-yellow
+
+    - title: Short Insulated Snow Boot – Black
+      price: £115
+      id: short-insulated-snow-boot-black
+
+    - title: Original Puffer Jacket - Magnetic Blue
+      price: £195
+      id: original-puffer-jacket-magnetic-blue
+
+    - title: Original Hero Hybrid Jacket - Black
+      price: £245
+      id: original-hero-hybrid-jacket-black
+
+    - title: Original Nylon Weekend Bag - Navy
+      price: £95
+      id: original-nylon-weekend-bag-navy
+
+    - title: Top Clip Backpack - Rubberised Leather - Dark Olive
+      price: £245
+      id: top-clip-backpack-rubberised-leather-dark-olive
+
+    - title: Top Clip Backpack - Rubberised Leather - Black
+      price: £245
+      id: top-clip-backpack-rubberised-leather-black
+
+
+collections:
+  title: Discover the cold collection from Hunter & Secret Escapes
+
+
+---
+
+<div class="vpad--xxl">
+  <div class="container container--xxl text--center">
+    {{page.intro}}
+  </div>
+
+  <div class="container container--xxl text--center">
+    <hr class="hr--center">
+    <h2 class="title title--md text--bolder">{{page.collections.title}}</h2>
+    <div class="space--xl"></div>
+    <div class="row">
+      {% assign collections = site.html_pages | where: "layout", "collection" | sort: 'nav-order' %}
+      {% for collection in collections %}
+      <div class="col col--6">
+        <div class="bg-img bg-img--1-1" style="background-image: url({{site.img}}/content/{{collection.id}}/banner.jpg);">
+          <a href="{{site.baseurl}}{{collection.url}}" class="bg-img__link"></a>
+          <div class="bg-img__content">
+            <h3 class="title title--lg">{{collection.title}}</h3>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="container container--xl text--center">
+    <hr class="hr--center">
+    <h2 class="title title--md text--bolder">{{page.hunter.title}}</h2>
+    {{page.hunter.intro}}
+    <div class="space--lg"></div>
+    <div class="row">
+    {% for product in page.hunter.products %}
+      <div class="col col--4">
+        <div class="bg-img bg-img--circle" style="background-image: url({{site.img}}/products/{{product.id}}.jpg);"></div>
+        <div class="space--sm"></div>
+        <div class="title title--xxxs title--sans text--bold">{{product.title}}</div>
+        <div class="text--bold text--upper">{{product.price}}</div>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
+
+</div>
