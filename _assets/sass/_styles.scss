@@ -4,6 +4,15 @@
   background-image: url('../img/content/competition/promo.jpg');
   @include background-attributes;
   &__content {
-    color: $white; 
+    color: $white;
   }
+}
+
+.promo-code {
+  border: 1px solid $orange;
+  border-radius: 5px;
+  padding-left: $s4;
+  padding-right: $s4;
+  display: inline-block;
+  margin: auto;
 }

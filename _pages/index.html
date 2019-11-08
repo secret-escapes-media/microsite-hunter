@@ -16,49 +16,78 @@ banner:
 intro: >
   <p class="text--xxl">There’s an unmistakable allure to exploring a wintry wilderness. It’s a challenge, a test of your resilience. And the rewards are undeniably great; the feeling of having beaten the cold, the slips and slides, and savouring the unique landscapes that winter offers – ones that you can have all to yourself. With the right gear there’s no reason to shy away from the cold, from the bracing winds and the challenges that the season throws at you. In fact, you might even see them as refreshing, revitalising.</p>
   <p class="text--xxl">From Golden Circle treks in Iceland to snowy Lakeland hikes in Cumbria, this collection brings you the best winter getaways we can find. Handpicked for you, match your winter escape with the right gear from Hunter. From snow boots to thick parkas, beat the cold in style as you set off on your winter adventure. </p>
+  <div class="space--sm"></div>
+  <a href="#products" class="btn btn--orange">Shop the Hunter collection</a>
 
 
 
 hunter:
   title: Get winter ready
   intro: >
-    <p class="text--lg">Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
+    <p class="text--lg">Get an exclusive 20% off the cold collection at Hunter, for Secret Escapes members only. So what are you waiting for? Embrace the cold and live your winter.</p>
   products:
-    - title: Tall Insulated Snow Boot – Storm Camo
+    - title: Tall Insulated Snow Boot
+      color: Storm Camo
+      gender: Women's
       price: £130
       id: tall-insulated-snow-boot-storm-camo
+      link: https://www.hunterboots.com/gb/en_gb/womens-boots/womens-original-printed-insulated-tall-snow-boots/grey/5797
 
-    - title: Original Insulated Parka – Luna Grey
+    - title: Original Insulated Parka
+      color: Luna Grey
+      gender: Women's
       price: £295
       id: original-insulated-parka-luna-grey
+      link: https://www.hunterboots.com/gb/en_gb/womens-jackets/womens-original-insulated-parka/grey/6053
 
-    - title: Waterproof Rubberised Smock - Yellow
+    - title: Waterproof Rubberised Smock
+      color: Yellow
+      gender: Women's
       price: £195
       id: waterproof-rubberised-smock-yellow
+      link: https://www.hunterboots.com/gb/en_gb/womens-jackets/womens-original-waterproof-rubberised-smock/yellow/2737
 
-    - title: Short Insulated Snow Boot – Black
+    - title: Short Insulated Snow Boot
+      color: Black
+      gender: Men's
       price: £115
       id: short-insulated-snow-boot-black
+      link: https://www.hunterboots.com/gb/en_gb/mens-boots/mens-original-insulated-short-snow-boots/black/5995
 
-    - title: Original Puffer Jacket - Magnetic Blue
+    - title: Original Puffer Jacket
+      color: Magnetic Blue
+      gender: Men's
       price: £195
       id: original-puffer-jacket-magnetic-blue
+      link: https://www.hunterboots.com/gb/en_gb/mens-jackets/mens-original-puffer-jacket/blue/6136
 
-    - title: Original Hero Hybrid Jacket - Black
+    - title: Original Hero Hybrid Jacket
+      color: Black
+      gender: Men's
       price: £245
       id: original-hero-hybrid-jacket-black
+      link: https://www.hunterboots.com/gb/en_gb/mens-jackets/mens-original-hero-hybrid-jacket/black/5742
 
-    - title: Original Nylon Weekend Bag - Navy
+    - title: Original Nylon Weekend Bag
+      color: Navy
+      gender: Unisex
       price: £95
       id: original-nylon-weekend-bag-navy
+      link: https://www.hunterboots.com/gb/en_gb/bags/original-nylon-weekend-bag/blue/5663/
 
-    - title: Top Clip Backpack - Rubberised Leather - Dark Olive
+    - title: Top Clip Backpack - Rubberised Leather
+      color: Dark Olive
+      gender: Unisex
       price: £245
       id: top-clip-backpack-rubberised-leather-dark-olive
+      link: https://www.hunterboots.com/gb/en_gb/bags/original-top-clip-backpack-rubberised-leather/green/2429/
 
-    - title: Top Clip Backpack - Rubberised Leather - Black
+    - title: Top Clip Backpack - Rubberised Leather
+      color: Black
+      gender: Unisex
       price: £245
       id: top-clip-backpack-rubberised-leather-black
+      link: https://www.hunterboots.com/gb/en_gb/bags/original-top-clip-backpack-rubberised-leather/black/1636/
 
 
 collections:
@@ -80,10 +109,10 @@ collections:
       {% assign collections = site.html_pages | where: "layout", "collection" | sort: 'nav-order' %}
       {% for collection in collections %}
       <div class="col col--6">
-        <div class="bg-img bg-img--1-1" style="background-image: url({{site.img}}/content/{{collection.id}}/banner.jpg);">
+        <div class="bg-img bg-img--1-1" style="background-image: url({{site.img}}/content/{{collection.id}}/tile.jpg);">
           <a href="{{site.baseurl}}{{collection.url}}" class="bg-img__link"></a>
           <div class="bg-img__content">
-            <h3 class="title title--lg">{{collection.title}}</h3>
+            <h3 class="title title--md text--bolder">{{collection.overview.title}}</h3>
           </div>
         </div>
       </div>
@@ -92,20 +121,30 @@ collections:
   </div>
 
   <div class="container container--xl text--center">
+    <div id="products"></div>
     <hr class="hr--center">
-    <h2 class="title title--md text--bolder">{{page.hunter.title}}</h2>
-    {{page.hunter.intro}}
+    <div class="width width--lg">
+      <h2 class="title title--md text--bolder">{{page.hunter.title}}</h2>
+      {{page.hunter.intro}}
+      <div class="space--sm">
+        <div class="boxpad--xs promo-code text--wide text--upper">Code: <span class="text--xxxl text--bold">SE20</span></div>
+      </div>
+    </div>
     <div class="space--lg"></div>
     <div class="row">
     {% for product in page.hunter.products %}
       <div class="col col--4">
-        <div class="bg-img bg-img--circle" style="background-image: url({{site.img}}/products/{{product.id}}.jpg);"></div>
+        <div class="bg-img bg-img--1-1" style="background-image: url({{site.img}}/products/{{product.id}}.jpg);">
+          <a href="{{product.link}}" target="_blank" class="bg-img__link"></a>
+        </div>
         <div class="space--sm"></div>
         <div class="title title--xxxs title--sans text--bold">{{product.title}}</div>
-        <div class="text--bold text--upper">{{product.price}}</div>
+        <div class="space--xxs text--sm">{{product.color}} | {{product.gender}} | <span class="text--bold">{{product.price}}</span></div>
       </div>
     {% endfor %}
     </div>
+    <div class="space--lg"></div>
+    <a href="#" class="btn btn--orange">Shop the Hunter Collection</a>
   </div>
 
 </div>
