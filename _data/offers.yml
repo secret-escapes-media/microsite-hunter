@@ -3,17 +3,6 @@
 # lakes-and-mountains
 
 
-- title: The Old Stocks Inn
-  location: Stow-on-the-Wold, Cotswolds
-  description: Boutique 17th-century Cotswolds inn
-  price: 110
-  price-description: per room per night
-  saved: 42
-  expires: 2019/11/19
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/16475/c6301939_d1c6_4e86_b311_606602d2b608.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-old-stocks-inn-stow-on-the-wold-cotswolds/sale
-  collection: lakes-and-mountains
-
 - title: Bishopstrow Hotel & Spa
   location: Warminster, Wiltshire
   description: Historic hotel with a spa in Wiltshire's fresh countryside
@@ -25,40 +14,60 @@
   link: https://www.secretescapes.com/bishopstrow-hotel-and-spa-warminster-wiltshire/sale
   collection: lakes-and-mountains
 
-- title: The Ambleside Inn
-  location: Ambleside, Cumbria
-  description: Cosy Lake District pub with stylish bedrooms
-  price: 74
+- title: The Bell at Stow and Stuart House
+  location: Stow-on-the-Wold, Gloucestershire
+  description: Your choice of two picture-perfect Cotswolds stays
+  price: 75
   price-description: per room per night
-  saved: 53
+  saved: 50
   expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105011/7611ac72_4533_4a6d_b19e_bfdbaa678fd6.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-ambleside-inn-ambleside-cumbria/sale
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/63820/951611fc_ef3a_4652_9c93_d7be30a94bac.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-bell-at-stow-and-stuart-house-stow-on-the-wold-gloucestershire/sale
   collection: lakes-and-mountains
 
-- title: De Vere Cotswold Water Park
-  location: near Cirencester, Cotswolds
-  description: Modern Cotswolds spa retreat surrounded by nature
-  price: 139
+- title: Tweedies Bar & Lodge
+  location: Grasmere, Lake District
+  description: Tranquil escape to the stunning Lake District
+  price: 89
   price-description: per room per night
-  saved: 46
-  expires: 2019/11/19
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101398/3a8beef2_33e7_482f_b7c1_f9acdc095101.jpg?auto=format,compress
-  link: https://www.secretescapes.com/de-vere-cotswold-water-park-near-cirencester-cotswolds/sale
+  saved: 49
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/80653/99a05f35_516a_4a57_86ce_fffe9a4db87b.jpg?auto=format,compress
+  link: https://www.secretescapes.com/tweedies-bar-and-lodge-grasmere-lake-district/sale
   collection: lakes-and-mountains
 
-- title: The Elms Hotel & Spa
-  location: Abberley, Worcestershire
-  description: Chic Worcestershire mansion house spa retreat
-  price: 129
+- title: Brockencote Hall
+  location: Wyre Forest, Worcestershire
+  description: Retreat to the country at a luxe manor house hotel
+  price: 162
   price-description: per room per night
-  saved: 31
-  expires: 2019/11/19
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/73770/47e192bd_4571_476a_bb18_fc89c49edaee.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-elms-hotel-and-spa-abberley-worcestershire-uk/sale
+  saved: 39
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/1344/84c98844_fb41_4c24_8699_3f45dd54678d.jpg?auto=format,compress
+  link: https://www.secretescapes.com/brockencote-hall-wyre-forest-worcestershire/sale
   collection: lakes-and-mountains
 
+- title: The Five Alls at Filkins
+  location: Lechlade, Gloucestershire
+  description: Award-winning Guardian-recommended pub stay near the Cotswolds
+  price: 81
+  price-description: per room per night
+  saved: 39
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/76913/9c38ecf4_93a7_48e2_b146_79ecc7f4cd80.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-five-alls-at-filkins-lechlade-gloucestershire/sale
+  collection: lakes-and-mountains
 
+- title: Stanton Manor Hotel
+  location: Chippenham, Wiltshire
+  description: Stately manor in Chippenham with plenty of history
+  price: 101
+  price-description: per room per night
+  saved: 32
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105406/ce5d05a5_d763_401f_8cb2_a9218ad3b309.jpg?auto=format,compress
+  link: https://www.secretescapes.com/stanton-manor-hotel-chippenham-wiltshire/sale
+  collection: lakes-and-mountains
 
 
 
@@ -71,7 +80,7 @@
   price: 84
   price-description: per room per night
   saved: 40
-  expires: 2019/11/18
+  expires: 2019/11/26
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/100925/6bc62144_1874_4988_a5d5_de83e0d022e4.jpg?auto=format,compress
   link: https://www.secretescapes.com/fyri-resort-hemsedal-norway/sale
   collection: northern-lights-and-alpine-hikes
@@ -117,3 +126,23 @@
   link: https://www.secretescapes.com/out-of-this-world-lava-field-iceland-getaway-with-wellness-perks-wellness-retreat-northern-light-inn/sale-ihp
   collection: northern-lights-and-alpine-hikes
 
+- title: Dreamy Nordic rail journey through Norway & Swedish Lapland
+  location: Oslo, Trondheim, Lofoten Islands, Kiruna & more
+  description: "Enchanting Norway and Lapland: Northern Lights in a winter wonderland"
+  price: 2195
+  price-description: per person based on 2 people for 10 nights
+  saved: 20
+  expires: 2019/12/16
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103823/40a91073_921e_4fe3_ae49_363451c9c3b4.jpg?auto=format,compress
+  link: https://www.secretescapes.com/dreamy-nordic-rail-journey-through-norway-and-swedish-lapland-oslo-trondheim-lofoten-islands-kiruna-and-more/sale
+  collection: northern-lights-and-alpine-hikes
+
+- title: Luxury French Alps chalet escape with wellness perks
+  location: Chalet Ferme St Christophe, Samoëns
+  description: Fabulous French Alps chalet retreat in the Grand Massif
+  price: 929
+  price-description: per person based on 2 people for 7 nights
+  expires: 2020/01/13
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/79392/b44b9a1d_6200_40c2_99c6_10ae8afd7b4e.jpg?auto=format,compress
+  link: https://www.secretescapes.com/luxury-french-alps-chalet-escape-with-wellness-perks-chalet-ferme-st-christophe-samoens/sale
+  collection: northern-lights-and-alpine-hikes
