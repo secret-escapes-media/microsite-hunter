@@ -74,17 +74,6 @@
 # =============================================
 # northern-lights-and-alpine-hikes
 
-- title: Fyri Resort
-  location: Hemsedal, Norway
-  description: Sleek Norwegian mountain digs with direct ski slope access
-  price: 84
-  price-description: per room per night
-  saved: 40
-  expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/100925/6bc62144_1874_4988_a5d5_de83e0d022e4.jpg?auto=format,compress
-  link: https://www.secretescapes.com/fyri-resort-hemsedal-norway/sale
-  collection: northern-lights-and-alpine-hikes
-
 - title: Bucket-list Lapland wildlife escape with igloo & epic Arctic activities
   location: Holiday Village Gulo Gulo & Arctic Fox Glass Igloos, Finland
   description: "Epic Lapland: glass igloo and Arctic wildlife park adventure"
@@ -103,27 +92,6 @@
   expires: 2020/01/06
   image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/183/7dcbb6c4_67fe_4245_beaf_16ec8e185c88.jpg?auto=format,compress
   link: https://www.secretescapes.com/iceland-city-to-country-tour-hotel-klettur-hotel-katla/sale-ihp
-  collection: northern-lights-and-alpine-hikes
-
-- title: Lavish Reykjavik suite escape with Northern Lights cruise & epic optional excursions
-  location: Reykjavik Marina Residence, Iceland
-  description: Luxury suite living in search of the Northern Lights
-  price: 599
-  price-description: per person based on 2 people for 3 nights
-  saved: 43
-  expires: 2020/01/06
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/932/d41240f6_2c9c_4fe4_8e2b_7e21f4f7fe1f.jpg?auto=format,compress
-  link: https://www.secretescapes.com/reykjavik-marina-residence-reykjavik-iceland/sale-ihp
-  collection: northern-lights-and-alpine-hikes
-
-- title: Iceland thermal wellness & Northern Lights retreat near the Blue Lagoon
-  location: Northern Light Inn, Grindavik
-  description: Otherworldly Iceland lava field break with wellness perks
-  price: 339
-  price-description: per person based on 2 people for 2 nights
-  expires: 2019/12/30
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/896/db8405cb_2e30_415a_8eac_37ed74712d77.jpg?auto=format,compress
-  link: https://www.secretescapes.com/out-of-this-world-lava-field-iceland-getaway-with-wellness-perks-wellness-retreat-northern-light-inn/sale-ihp
   collection: northern-lights-and-alpine-hikes
 
 - title: Dreamy Nordic rail journey through Norway & Swedish Lapland
@@ -146,3 +114,38 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/79392/b44b9a1d_6200_40c2_99c6_10ae8afd7b4e.jpg?auto=format,compress
   link: https://www.secretescapes.com/luxury-french-alps-chalet-escape-with-wellness-perks-chalet-ferme-st-christophe-samoens/sale
   collection: northern-lights-and-alpine-hikes
+
+- title: Eco-luxury Iceland Northern Lights getaway with glacier snowmobiling options
+  location: Eyja Guldsmeden Hotel, Reykjavik
+  description: Stylish Reykjavik eco-hotel, plus phenomenal tours
+  price: 355
+  price-description: per person. Based on 2 people for 3 nights
+  saved: 46
+  expires: 2019/12/09
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/422/dd338bfa_f650_40d1_aade_d67d97fe9d76.jpg?auto=format,compress
+  link: https://www.secretescapes.com/eco-luxury-iceland-northern-lights-getaway-with-glacier-snowmobiling-options-eyja-guldsmeden-hotel-iceland/sale-ihp
+  collection: northern-lights-and-alpine-hikes
+
+- title: Epic Iceland Northern Lights break with a luxury hotel stay
+  location: Room With A View Apartment Hotel & Suites, Reykjavik
+  description: Northern Lights, Scandi-cool digs and more in epic Iceland
+  price: 299
+  price-description: per person. Based on 2 people for 3 nights
+  saved: 53
+  expires: 2019/12/02
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/829/eae2d97f_5b60_4c5a_8d3d_a3185234a4a6.jpg?auto=format,compress
+  link: https://www.secretescapes.com/room-with-a-view-apartment-hotel-and-suites-reykjavik-iceland/sale-ihp
+  collection: northern-lights-and-alpine-hikes
+
+- title: Elegant Northern Lights escape with an award-winning Iceland hotel & stunning tours
+  location: Hotel Holt, Reykjavik
+  description: "Iceland trip: arty Reykjavik stay and epic tours"
+  price: 419
+  price-description: per person. Based on 2 people for 3 nights
+  saved: 39
+  expires: 2019/12/09
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/225/dd06e7ee_612e_43a9_834c_61e9bd207585.jpg?auto=format,compress
+  link: https://www.secretescapes.com/hotel-holt-reykjavik-iceland1/sale-ihp
+  collection: northern-lights-and-alpine-hikes
+
+
