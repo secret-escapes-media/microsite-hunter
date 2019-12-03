@@ -74,26 +74,6 @@
 # =============================================
 # northern-lights-and-alpine-hikes
 
-- title: Bucket-list Lapland wildlife escape with igloo & epic Arctic activities
-  location: Holiday Village Gulo Gulo & Arctic Fox Glass Igloos, Finland
-  description: "Epic Lapland: glass igloo and Arctic wildlife park adventure"
-  price: 539
-  price-description: per person. Based on 2 people for 2 nights
-  expires: 2019/12/02
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/252/9768b0a7_4ac6_485e_85d0_fcfc6c23c8b4.jpg?auto=format,compress
-  link: https://www.secretescapes.com/bucket-list-lapland-wildlife-escape-with-glass-igloo-and-epic-arctic-activities-finland/sale-ihp
-  collection: northern-lights-and-alpine-hikes
-
-- title: Dazzling Iceland city-to-country tour with Northern Lights, Blue Lagoon & more
-  location: Five-day escorted trip with Northern Lights, Jökulsárlón glacier lagoon & more
-  description: "Breathtaking Iceland: Northern Lights, South Coast and more"
-  price: 655
-  price-description: per person based on 2 people for 4 nights
-  expires: 2020/01/06
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/183/7dcbb6c4_67fe_4245_beaf_16ec8e185c88.jpg?auto=format,compress
-  link: https://www.secretescapes.com/iceland-city-to-country-tour-hotel-klettur-hotel-katla/sale-ihp
-  collection: northern-lights-and-alpine-hikes
-
 - title: Dreamy Nordic rail journey through Norway & Swedish Lapland
   location: Oslo, Trondheim, Lofoten Islands, Kiruna & more
   description: "Enchanting Norway and Lapland: Northern Lights in a winter wonderland"
@@ -126,26 +106,36 @@
   link: https://www.secretescapes.com/eco-luxury-iceland-northern-lights-getaway-with-glacier-snowmobiling-options-eyja-guldsmeden-hotel-iceland/sale-ihp
   collection: northern-lights-and-alpine-hikes
 
-- title: Epic Iceland Northern Lights break with a luxury hotel stay
-  location: Room With A View Apartment Hotel & Suites, Reykjavik
-  description: Northern Lights, Scandi-cool digs and more in epic Iceland
-  price: 299
+- title: Ultra-affordable Iceland escape with Northern Lights, Golden Circle tour & optional extras
+  location: Hótel Smári, Kópavogur near Reykjavik
+  description: Northern Lights, Golden Circle and more epic excursions
+  price: 259
   price-description: per person. Based on 2 people for 3 nights
-  saved: 53
-  expires: 2019/12/02
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/829/eae2d97f_5b60_4c5a_8d3d_a3185234a4a6.jpg?auto=format,compress
-  link: https://www.secretescapes.com/room-with-a-view-apartment-hotel-and-suites-reykjavik-iceland/sale-ihp
+  saved: 44
+  expires: 2020/01/20
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/175/29fdfb59_f92b_4234_909e_4c326ce0408d.jpg?auto=format,compress
+  link: https://www.secretescapes.com/hotel-smari-kopavogur-near-reykjavik-iceland/sale-ihp
   collection: northern-lights-and-alpine-hikes
 
-- title: Elegant Northern Lights escape with an award-winning Iceland hotel & stunning tours
-  location: Hotel Holt, Reykjavik
-  description: "Iceland trip: arty Reykjavik stay and epic tours"
-  price: 419
-  price-description: per person. Based on 2 people for 3 nights
-  saved: 39
-  expires: 2019/12/09
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/225/dd06e7ee_612e_43a9_834c_61e9bd207585.jpg?auto=format,compress
-  link: https://www.secretescapes.com/hotel-holt-reykjavik-iceland1/sale-ihp
+- title: Marmotel & Spa
+  location: Pra Loup, French Alps
+  description: Luxe French Alps spa hotel in Pra Loup
+  price: 70
+  price-description: per room per night
+  saved: 43
+  expires: 2019/12/16
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105802/953e4acf_0a1a_4ef3_a628_a8f525ebd422.jpg?auto=format,compress
+  link: https://www.secretescapes.com/marmotel-and-spa-pra-loup-france/sale
   collection: northern-lights-and-alpine-hikes
 
+- title: Breathtaking Iceland wellness city & country escorted tour in the land of the Northern Lights
+  location: A five-day tour with Northern Lights, Blue Lagoon & more
+  description: Exquisite natural sights and wellness in Iceland
+  price: 625
+  price-description: per person. Based on 2 people for 4 nights
+  saved:
+  expires: 2020/01/20
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/183/dd591257_5dae_40de_bf1d_54e76b207172.jpg?auto=format,compress
+  link: https://www.secretescapes.com/stunning-iceland-wellness-city-and-country-break-with-tours-northern-lights-blue-lagoon-and-more22/sale-ihp
+  collection: northern-lights-and-alpine-hikes
 
