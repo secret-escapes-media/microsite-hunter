@@ -2,71 +2,70 @@
 # =============================================
 # lakes-and-mountains
 
-
-- title: Bishopstrow Hotel & Spa
-  location: Warminster, Wiltshire
-  description: Historic hotel with a spa in Wiltshire's fresh countryside
-  price: 139
-  price-description: per room per night
-  saved: 60
-  expires: 2019/11/19
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/85799/e31bf369_01e6_4e1f_acd9_d7ed5706aab7.jpg?auto=format,compress
-  link: https://www.secretescapes.com/bishopstrow-hotel-and-spa-warminster-wiltshire/sale
-  collection: lakes-and-mountains
-
-- title: The Bell at Stow and Stuart House
-  location: Stow-on-the-Wold, Gloucestershire
-  description: Your choice of two picture-perfect Cotswolds stays
-  price: 75
-  price-description: per room per night
-  saved: 50
-  expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/63820/951611fc_ef3a_4652_9c93_d7be30a94bac.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-bell-at-stow-and-stuart-house-stow-on-the-wold-gloucestershire/sale
-  collection: lakes-and-mountains
-
-- title: Tweedies Bar & Lodge
-  location: Grasmere, Lake District
-  description: Tranquil escape to the stunning Lake District
-  price: 89
-  price-description: per room per night
-  saved: 49
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/80653/99a05f35_516a_4a57_86ce_fffe9a4db87b.jpg?auto=format,compress
-  link: https://www.secretescapes.com/tweedies-bar-and-lodge-grasmere-lake-district/sale
-  collection: lakes-and-mountains
-
-- title: Brockencote Hall
-  location: Wyre Forest, Worcestershire
-  description: Retreat to the country at a luxe manor house hotel
-  price: 162
-  price-description: per room per night
-  saved: 39
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/1344/84c98844_fb41_4c24_8699_3f45dd54678d.jpg?auto=format,compress
-  link: https://www.secretescapes.com/brockencote-hall-wyre-forest-worcestershire/sale
-  collection: lakes-and-mountains
-
 - title: The Five Alls at Filkins
   location: Lechlade, Gloucestershire
   description: Award-winning Guardian-recommended pub stay near the Cotswolds
-  price: 81
+  price: 79
   price-description: per room per night
-  saved: 39
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/76913/9c38ecf4_93a7_48e2_b146_79ecc7f4cd80.jpg?auto=format,compress
+  saved: 41
+  expires: 2019/12/10
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/76913/e0fe3c92_cbdc_46a8_b3aa_c0c663c67f2e.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-five-alls-at-filkins-lechlade-gloucestershire/sale
   collection: lakes-and-mountains
 
 - title: Stanton Manor Hotel
   location: Chippenham, Wiltshire
   description: Stately manor in Chippenham with plenty of history
-  price: 101
+  price: 99
   price-description: per room per night
-  saved: 32
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105406/ce5d05a5_d763_401f_8cb2_a9218ad3b309.jpg?auto=format,compress
+  saved: 34
+  expires: 2019/12/10
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105406/aaf53983_9c7a_41fc_bee3_4256ee58ad05.jpg?auto=format,compress
   link: https://www.secretescapes.com/stanton-manor-hotel-chippenham-wiltshire/sale
+  collection: lakes-and-mountains
+
+- title: The Bell in Ticehurst
+  location: Ticehurst, East Sussex
+  description: Relax at a rustic-chic, award-winning East Sussex inn
+  price: 75
+  price-description: per room per night
+  saved: 60
+  expires: 2019/12/24
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/76261/9ca3e183_2114_4785_8b09_17fd261b1534.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-bell-in-ticehurst-ticehurst-east-sussex/sale
+  collection: lakes-and-mountains
+
+- title: New Bath Hotel & Spa
+  location: Peak District, Derbyshire
+  description: Peak District stay with an ESPA spa and gourmet dining
+  price: 109
+  price-description: per room per night
+  saved: 39
+  expires: 2019/12/24
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/34316/d5482a8e_51c2_45e8_8c21_1a7135cf88b0.jpg?auto=format,compress
+  link: https://www.secretescapes.com/new-bath-hotel-and-spa-peak-district-derbyshire/sale
+  collection: lakes-and-mountains
+
+- title: Lympstone Manor
+  location: Exmouth, Devon
+  description: Stunning five-star Devon hotel with Michelin-star dining
+  price: 525
+  price-description: per room per night
+  saved: 30
+  expires: 2019/12/24
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/77245/1994a86a_9716_4319_87a9_50ba73cac05d.jpg?auto=format,compress
+  link: https://www.secretescapes.com/lympstone-manor-exmouth-devon/sale
+  collection: lakes-and-mountains
+
+- title: Kings Head Hotel
+  location: Cirencester, Cotswolds
+  description: High-end Cotswolds hotel with underground spa
+  price: 149
+  price-description: per suite per night
+  saved: 40
+  expires: 2019/12/17
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/58062/f2348577_ab73_4782_977d_738d8408ce0d.jpg?auto=format,compress
+  link: https://www.secretescapes.com/kings-head-hotel-cirencester-cotswolds-uk/sale
   collection: lakes-and-mountains
 
 
@@ -95,28 +94,6 @@
   link: https://www.secretescapes.com/luxury-french-alps-chalet-escape-with-wellness-perks-chalet-ferme-st-christophe-samoens/sale
   collection: northern-lights-and-alpine-hikes
 
-- title: Eco-luxury Iceland Northern Lights getaway with glacier snowmobiling options
-  location: Eyja Guldsmeden Hotel, Reykjavik
-  description: Stylish Reykjavik eco-hotel, plus phenomenal tours
-  price: 355
-  price-description: per person. Based on 2 people for 3 nights
-  saved: 46
-  expires: 2019/12/09
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/422/dd338bfa_f650_40d1_aade_d67d97fe9d76.jpg?auto=format,compress
-  link: https://www.secretescapes.com/eco-luxury-iceland-northern-lights-getaway-with-glacier-snowmobiling-options-eyja-guldsmeden-hotel-iceland/sale-ihp
-  collection: northern-lights-and-alpine-hikes
-
-- title: Ultra-affordable Iceland escape with Northern Lights, Golden Circle tour & optional extras
-  location: Hótel Smári, Kópavogur near Reykjavik
-  description: Northern Lights, Golden Circle and more epic excursions
-  price: 259
-  price-description: per person. Based on 2 people for 3 nights
-  saved: 44
-  expires: 2020/01/20
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/175/29fdfb59_f92b_4234_909e_4c326ce0408d.jpg?auto=format,compress
-  link: https://www.secretescapes.com/hotel-smari-kopavogur-near-reykjavik-iceland/sale-ihp
-  collection: northern-lights-and-alpine-hikes
-
 - title: Marmotel & Spa
   location: Pra Loup, French Alps
   description: Luxe French Alps spa hotel in Pra Loup
@@ -137,5 +114,49 @@
   expires: 2020/01/20
   image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/183/dd591257_5dae_40de_bf1d_54e76b207172.jpg?auto=format,compress
   link: https://www.secretescapes.com/stunning-iceland-wellness-city-and-country-break-with-tours-northern-lights-blue-lagoon-and-more22/sale-ihp
+  collection: northern-lights-and-alpine-hikes
+
+- title: Hotel Royal Ours Blanc
+  location: Alpe d’Huez, France
+  description: Alpine spa hotel near the Alpe d’Huez ski lifts
+  price: 114
+  price-description: per room per night
+  saved: 34
+  expires: 2019/12/16
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/106327/2a04eaed_65ef_46e5_93c0_84c63f34b583.jpg?auto=format,compress
+  link: https://www.secretescapes.com/hotel-royal-ours-blanc-alpe-dhuez-france/sale
+  collection: northern-lights-and-alpine-hikes
+
+- title: Enchanting Iceland escape with Northern Lights & optional snowmobiling
+  location: Grand Hotel Reykjavik, Iceland
+  description: "Iceland adventures: Northern Lights and optional snowmobiling"
+  price: 399
+  price-description: per person. Based on 2 people for 3 nights
+  saved: 41
+  expires: 2020/01/20
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/1001/feb906c9_e8a5_491b_97ba_7500eca4dfdf.jpg?auto=format,compress
+  link: https://www.secretescapes.com/grand-hotel-reykjavik-iceland/sale-ihp
+  collection: northern-lights-and-alpine-hikes
+
+- title: Hotel les Sherpas
+  location: Courchevel, French Alps
+  description: A cosy, rustic retreat in the French Alps close to the ski slopes
+  price: 290
+  price-description: per room per night
+  saved: 49
+  expires: 2019/12/23
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/87151/fb994aa8_35d4_41e4_9701_2e418d603650.jpg?auto=format,compress
+  link: https://www.secretescapes.com/hotel-les-sherpas-courchevel-french-alps/sale
+  collection: northern-lights-and-alpine-hikes
+
+- title: Brand-new luxury eco-boutique Iceland Northern Lights break with incredible sightseeing excursions
+  location: Von Guldsmeden Hotel, Reykjavík
+  description: Brand-new eco-luxury Iceland hotel break with a Northern Lights tour and more
+  price: 399
+  price-description: per person. Based on 2 people for 3 nights
+  saved: 38
+  expires: 2020/02/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/991/56cc6168_a7c3_4339_816d_f2106d480394.jpg?auto=format,compress
+  link: https://www.secretescapes.com/brand-new-iceland-break-with-incredible-sightseeing-excursions-von-guldsmeden-hotel-iceland/sale-ihp
   collection: northern-lights-and-alpine-hikes
 
