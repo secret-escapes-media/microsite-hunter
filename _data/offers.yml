@@ -2,28 +2,6 @@
 # =============================================
 # lakes-and-mountains
 
-- title: The Five Alls at Filkins
-  location: Lechlade, Gloucestershire
-  description: Award-winning Guardian-recommended pub stay near the Cotswolds
-  price: 79
-  price-description: per room per night
-  saved: 41
-  expires: 2019/12/10
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/76913/e0fe3c92_cbdc_46a8_b3aa_c0c663c67f2e.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-five-alls-at-filkins-lechlade-gloucestershire/sale
-  collection: lakes-and-mountains
-
-- title: Stanton Manor Hotel
-  location: Chippenham, Wiltshire
-  description: Stately manor in Chippenham with plenty of history
-  price: 99
-  price-description: per room per night
-  saved: 34
-  expires: 2019/12/10
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105406/aaf53983_9c7a_41fc_bee3_4256ee58ad05.jpg?auto=format,compress
-  link: https://www.secretescapes.com/stanton-manor-hotel-chippenham-wiltshire/sale
-  collection: lakes-and-mountains
-
 - title: The Bell in Ticehurst
   location: Ticehurst, East Sussex
   description: Relax at a rustic-chic, award-winning East Sussex inn
@@ -73,27 +51,6 @@
 # =============================================
 # northern-lights-and-alpine-hikes
 
-- title: Dreamy Nordic rail journey through Norway & Swedish Lapland
-  location: Oslo, Trondheim, Lofoten Islands, Kiruna & more
-  description: "Enchanting Norway and Lapland: Northern Lights in a winter wonderland"
-  price: 2195
-  price-description: per person based on 2 people for 10 nights
-  saved: 20
-  expires: 2019/12/16
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103823/40a91073_921e_4fe3_ae49_363451c9c3b4.jpg?auto=format,compress
-  link: https://www.secretescapes.com/dreamy-nordic-rail-journey-through-norway-and-swedish-lapland-oslo-trondheim-lofoten-islands-kiruna-and-more/sale
-  collection: northern-lights-and-alpine-hikes
-
-- title: Luxury French Alps chalet escape with wellness perks
-  location: Chalet Ferme St Christophe, Samoëns
-  description: Fabulous French Alps chalet retreat in the Grand Massif
-  price: 929
-  price-description: per person based on 2 people for 7 nights
-  expires: 2020/01/13
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/79392/b44b9a1d_6200_40c2_99c6_10ae8afd7b4e.jpg?auto=format,compress
-  link: https://www.secretescapes.com/luxury-french-alps-chalet-escape-with-wellness-perks-chalet-ferme-st-christophe-samoens/sale
-  collection: northern-lights-and-alpine-hikes
-
 - title: Marmotel & Spa
   location: Pra Loup, French Alps
   description: Luxe French Alps spa hotel in Pra Loup
@@ -103,17 +60,6 @@
   expires: 2019/12/16
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/105802/953e4acf_0a1a_4ef3_a628_a8f525ebd422.jpg?auto=format,compress
   link: https://www.secretescapes.com/marmotel-and-spa-pra-loup-france/sale
-  collection: northern-lights-and-alpine-hikes
-
-- title: Breathtaking Iceland wellness city & country escorted tour in the land of the Northern Lights
-  location: A five-day tour with Northern Lights, Blue Lagoon & more
-  description: Exquisite natural sights and wellness in Iceland
-  price: 625
-  price-description: per person. Based on 2 people for 4 nights
-  saved:
-  expires: 2020/01/20
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/183/dd591257_5dae_40de_bf1d_54e76b207172.jpg?auto=format,compress
-  link: https://www.secretescapes.com/stunning-iceland-wellness-city-and-country-break-with-tours-northern-lights-blue-lagoon-and-more22/sale-ihp
   collection: northern-lights-and-alpine-hikes
 
 - title: Hotel Royal Ours Blanc
@@ -149,14 +95,5 @@
   link: https://www.secretescapes.com/hotel-les-sherpas-courchevel-french-alps/sale
   collection: northern-lights-and-alpine-hikes
 
-- title: Brand-new luxury eco-boutique Iceland Northern Lights break with incredible sightseeing excursions
-  location: Von Guldsmeden Hotel, Reykjavík
-  description: Brand-new eco-luxury Iceland hotel break with a Northern Lights tour and more
-  price: 399
-  price-description: per person. Based on 2 people for 3 nights
-  saved: 38
-  expires: 2020/02/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/991/56cc6168_a7c3_4339_816d_f2106d480394.jpg?auto=format,compress
-  link: https://www.secretescapes.com/brand-new-iceland-break-with-incredible-sightseeing-excursions-von-guldsmeden-hotel-iceland/sale-ihp
-  collection: northern-lights-and-alpine-hikes
+
 
